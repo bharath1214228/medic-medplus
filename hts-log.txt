@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 18:04:47 at https://gracethemes.com/demo/medplus/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gracethemes.com/demo/medplus/ -O1 "C:\Users\dell\Desktop\barath\medic5" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:06:05	Error: 	"Method Not Allowed" (405) at link https://gracethemes.com/demo/medplus/xmlrpc.php (from https://gracethemes.com/demo/medplus/)
+18:07:58	Error: 	"Not Found" (404) at link https://gracethemes.com/demo/medplus/wp-content/themes/medplus-pro/images/base/accordian-title.png (from https://gracethemes.com/demo/medplus/wp-content/themes/medplus-pro/css/default.css?ver=4.7.25)
+18:07:58	Error: 	"Not Found" (404) at link https://gracethemes.com/demo/medplus/wp-content/themes/medplus-pro/images/base/accordian-content-bg.png (from https://gracethemes.com/demo/medplus/wp-content/themes/medplus-pro/css/default.css?ver=4.7.25)
+18:07:59	Error: 	"Not Found" (404) at link https://gracethemes.com/demo/medplus/wp-content/themes/medplus-pro/testimonialsrotator/js/owl.video.play.png (from https://gracethemes.com/demo/medplus/wp-content/themes/medplus-pro/testimonialsrotator/js/owl.carousel.css?ver=4.7.25)
+18:07:59	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=231
+18:07:59	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=231 to https://gracethemes.com/demo/medplus/about/
+18:07:59	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=13
+18:07:59	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=13 to https://gracethemes.com/demo/medplus/services/
+18:08:00	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=11
+18:08:00	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=11 to https://gracethemes.com/demo/medplus/left-sidebar/
+18:08:00	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=84
+18:08:00	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=84 to https://gracethemes.com/demo/medplus/right-sidebar/
+18:08:00	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=91
+18:08:00	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=91 to https://gracethemes.com/demo/medplus/full-width/
+18:08:00	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=98
+18:08:00	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=98 to https://gracethemes.com/demo/medplus/no-sidebar/
+18:08:00	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=116
+18:08:00	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=116 to https://gracethemes.com/demo/medplus/blog-left-sidebar/
+18:08:04	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=123
+18:08:04	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=123 to https://gracethemes.com/demo/medplus/blog-right-sidebar/
+18:08:04	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=109
+18:08:04	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=109 to https://gracethemes.com/demo/medplus/blog-full-width/
+18:08:04	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=130
+18:08:04	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=130 to https://gracethemes.com/demo/medplus/blog-no-sidebar/
+18:08:04	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=15
+18:08:04	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=15 to https://gracethemes.com/demo/medplus/portfolio/
+18:08:04	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=17
+18:08:04	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=17 to https://gracethemes.com/demo/medplus/contact-us/
+18:08:04	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=280
+18:08:04	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=280 to https://gracethemes.com/demo/medplus/our-doctors/dr-merexi-windrop/
+18:08:04	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=274
+18:08:04	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=274 to https://gracethemes.com/demo/medplus/our-doctors/dr-sofia-sing/
+18:08:05	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=268
+18:08:05	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=268 to https://gracethemes.com/demo/medplus/our-doctors/dr-zeriff-dang/
+18:08:05	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=262
+18:08:05	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=262 to https://gracethemes.com/demo/medplus/our-doctors/dr-marry-diago/
+18:08:05	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=48
+18:08:05	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=48 to https://gracethemes.com/demo/medplus/uncategorized/nulla-consequat-massa/
+18:08:05	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=41
+18:08:05	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=41 to https://gracethemes.com/demo/medplus/uncategorized/lorem-ipsume-text/
+18:08:05	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=34
+18:08:05	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=34 to https://gracethemes.com/demo/medplus/uncategorized/dummy-post-here/
+18:08:05	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=27
+18:08:05	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=27 to https://gracethemes.com/demo/medplus/uncategorized/recent-post-title/
+18:08:05	Warning: 	Moved Permanently for https://gracethemes.com/demo/medplus/?p=240
+18:08:05	Warning: 	File has moved from https://gracethemes.com/demo/medplus/?p=240 to https://gracethemes.com/demo/medplus/uncategorized/hello-world-2/
+18:08:10	Warning: 	Found for https://gracethemes.com/demo/medplus/wp-admin/
+18:08:10	Warning: 	File has moved from https://gracethemes.com/demo/medplus/wp-admin/ to https://gracethemes.com/demo/medplus/wp-login.php?redirect_to=https%3A%2F%2Fgracethemes.com%2Fdemo%2Fmedplus%2Fwp-admin%2F&reauth=1
+18:08:12	Error: 	"Not Found" (404) at link https://gracethemes.com/demo/medplus/wp-admin/&reauth=1 (from https://gracethemes.com/demo/medplus/wp-login.php?redirect_to=https%3A%2F%2Fgracethemes.com%2Fdemo%2Fmedplus%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 26 seconds : 250 links scanned, 222 files written (4097477 bytes overall) [2855333 bytes received at 13860 bytes/sec], 2313840 bytes transferred using HTTP compression in 113 files, ratio 32%, 27.7 requests per connection
+(5 errors, 44 warnings, 0 messages)
